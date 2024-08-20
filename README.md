@@ -1,1 +1,7 @@
 # AULAS-LARAVEL-ESCOBAR
+
+Aula 01 - 06/08/2024
+
+Aula 02 - 13/08/2024
+
+Aula 03 - 20/08/2024
